@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Akio
-    subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
         url: /pricing
